@@ -1,7 +1,22 @@
-### 🚀 Data Science Enthusiast | Python | Machine Learning | Optimization Research<br><br>
-# 💫 About Me:
+## 💫 Data Science Enthusiast | Python | Machine Learning | Optimization Research
 
-🔭 Currently working on: Data Science projects, Machine Learning optimization, and DSA<br><br>🤝 Looking to collaborate on: Data Science, Machine Learning, and applied AI projects<br><br>🆘 I’m looking for help with: Advanced ML techniques and system-level programming<br><br>🌱 Currently learning: Machine Learning algorithms, Data Science pipelines, and DSA patterns<br><br>📊 Data Science Stack: Python • NumPy • Pandas • Scikit-Learn • TensorFlow • Matplotlib • Plotly • MLflow<br><br>💬 Ask me about: Python, Data Analysis, Machine Learning models, and ML optimization<br><br>⚡ Fun fact: I enjoy building both hardware and software projects — from FPGA systems to ML models
+## 🧠 About Me
+
+🔭 Currently working on: Data Science projects, Machine Learning optimization, and DSA  
+
+🤝 Looking to collaborate on: Data Science, Machine Learning, and applied AI projects  
+
+🆘 Looking for help with: Advanced ML techniques and system-level programming  
+
+🌱 Currently learning: Machine Learning algorithms, Data Science pipelines, and DSA patterns  
+
+📊 Data Science Stack: Python • NumPy • Pandas • Scikit-Learn • TensorFlow • Matplotlib • Plotly • MLflow  
+
+📄 Published research in Optical Communication and working on ML-based optimization  
+
+💬 Ask me about: Python, Data Analysis, Machine Learning models, and ML optimization  
+
+⚡ Fun fact: I enjoy building both hardware and software projects — from FPGA systems to ML models
 
 
 ## 🌐 Socials:

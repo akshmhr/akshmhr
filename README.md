@@ -1,22 +1,39 @@
-### 🚀 Aspiring Data Scientist | Python | Machine Learning | Optimization Research
+### Data Science & ML | Forecasting, Predictive Modeling & AI Applications | Python | Turning Data into Decisions
 
-## 🧠 About Me
+## About Me
 
-🔭 Currently working on: Data Science projects, Machine Learning optimization, and DSA  
+I work on solving real-world problems using data, with hands-on experience in machine learning, NLP, and RAG.
 
-🤝 Looking to collaborate on: Data Science, Machine Learning, and applied AI projects  
+👋 Hey, I’m Aksh Agrawal — a BTech Electronics and Communication Engineering student at VIT, transitioning into Data Science through real-world projects and applied AI systems.
 
-🆘 Looking for help with: Advanced ML techniques and system-level programming  
+My interest in data science started with understanding how raw data can be transformed into meaningful insights, and it has evolved into building practical solutions using machine learning, deep learning, and data analysis.
 
-🌱 Currently learning: Machine Learning algorithms, Data Science pipelines, and DSA patterns  
+I’ve built and worked on projects across NLP, computer vision, and analytics, including:
 
-📊 Data Science Stack: Python • NumPy • Pandas • Scikit-Learn • TensorFlow • Matplotlib • Plotly • MLflow  
+• Built a RAG-based system on 1000+ documents, reducing retrieval latency by 30%  
 
-📄 Published research in Optical Communication and working on ML-based optimization  
+• Developed a U-Net model achieving 85% IoU for flood segmentation using 500+ satellite images  
 
-💬 Ask me about: Python, Data Analysis, Machine Learning models, and ML optimization  
+• Optimized UAV simulation models at IIT Indore, improving trajectory accuracy by 12% and enhancing system performance
 
-⚡ Fun fact: I enjoy building both hardware and software projects — from FPGA systems to ML models
+💡 What I focus on:
+• Building end-to-end data science solutions using Python and real-world datasets  
+
+• Applying machine learning and deep learning techniques for predictive modeling  
+
+• Working with NLP systems, embeddings, vector search, and LLM-based applications  
+
+• Performing data preprocessing, feature engineering, and model evaluation  
+
+• Creating meaningful visualizations and insights using tools like Matplotlib and Plotly
+
+I also have a strong foundation in core concepts such as statistics, probability, linear algebra, optimization techniques, and data structures, which helps me approach problems analytically and design efficient, scalable solutions.
+
+Through my academic and project experience, I’ve developed the ability to break down complex problems, experiment with different approaches, and iterate quickly to improve model performance and results.
+
+Currently, I’m strengthening my skills through hands-on projects and the IBM Data Science Professional Certificate (in progress), while continuously exploring new tools and technologies in the data science ecosystem.
+
+🚀 I’m actively seeking Data Science, Machine Learning, or Data Analyst internships where I can contribute to real-world projects, solve meaningful problems, and deliver measurable impact.
 
 
 ## 🌐 Socials:
